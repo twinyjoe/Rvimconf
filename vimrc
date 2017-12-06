@@ -39,9 +39,6 @@ set expandtab
 set autoindent
 set fileformat=unix
 
-   
-   " flagging whitespaces
-"au BufRead,BufNewFile *.py,*.pyw,*.c,*.h match BadWhitespace /\s\+$/
 
 set encoding=utf-8
 
